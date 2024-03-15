@@ -1,1 +1,1 @@
-<img width="661" alt="image" src="https://github.com/treeralph/camp_kiosk/assets/50291395/3e6baaf6-c689-4ce6-a577-bd9b163b4d02">
+<img width="701" alt="image" src="https://github.com/treeralph/camp_kiosk/assets/50291395/78c4eca6-b9de-4b4a-be60-398ad7203e39">
